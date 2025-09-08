@@ -61,3 +61,5 @@ Thumbs.db
 
 # Test outputs (keep sample images but exclude large test files)
 test_visualization.png
+zambia_visualization_demo.png
+demo.py
